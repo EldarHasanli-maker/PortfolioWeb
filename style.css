@@ -92,3 +92,12 @@ p{
     
         
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: gold;
+}
+html{
+    scroll-behavior: smooth
+}
